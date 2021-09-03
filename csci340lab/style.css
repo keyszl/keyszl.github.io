@@ -24,8 +24,8 @@ ul {
   border: 5px solid rgb(255, 191, 0);
 }
 
-.gallery {
+.pitbull1 {
   padding: 12px 18px;
-  max-width: 100%;
-  height: auto;
+  width: 50px;
+  height: 80px;
 }
