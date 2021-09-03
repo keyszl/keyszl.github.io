@@ -23,3 +23,7 @@ ul {
 .main {
   border: 5px solid rgb(255, 191, 0);
 }
+
+.gallery {
+  padding: 8px 18px;
+}
