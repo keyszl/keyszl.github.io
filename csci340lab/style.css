@@ -3,6 +3,7 @@ body {
   font-weight: 300;
   padding: 8px 18px;
   background-color: black;
+
 }
 
 h1 {
@@ -16,4 +17,8 @@ h1 {
 
 ul {
   color: rgb(255, 191, 0);
+}
+
+main {
+  border: 10px solid rgb(255, 191, 0);
 }
