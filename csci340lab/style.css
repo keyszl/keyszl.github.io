@@ -26,6 +26,6 @@ ul {
 
 .gallery {
   padding: 12px 18px;
-  height: 80px;
-  width: 50px;
+  max-width: 100%;
+  height: auto;
 }
