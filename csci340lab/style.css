@@ -3,6 +3,8 @@ body {
   font-weight: 300;
 }
 
-title {
-  font-family: 'Impact';
+h1 {
+  font-family: 'Apple Chancery', cursive;
+  color: rgb(255, 191, 0);
+
 }
