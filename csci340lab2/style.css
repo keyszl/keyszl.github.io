@@ -1,7 +1,9 @@
 footer {
   font-family: 'Urbanist', sans-serif;
+  font-style: italic;
   font-size: 18px;
   text-align: center;
+  padding: 10px 0;
 
   border-style: ridge;
   border-width: 8px;
