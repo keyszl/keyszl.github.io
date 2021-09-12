@@ -3,6 +3,10 @@
   padding: 30px;
 }
 
+.row {
+  padding: 10px;
+}
+
 footer {
   font-family: 'Urbanist', sans-serif;
   font-style: italic;
