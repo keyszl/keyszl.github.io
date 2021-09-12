@@ -1,5 +1,6 @@
-#main {
+.main {
   background-color: lightblue;
+  padding: 30px;
 }
 
 footer {
