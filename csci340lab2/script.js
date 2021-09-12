@@ -7,9 +7,9 @@ $('#dadjoke').click(function() {
     success: function(results) {
       console.log(results["url"]);
       if (results["url"].endsWith(".png")) {
-        $('#dog').attr("src", "images/blank.png");
+        $('#joke').attr("src", "images/blank.png");
       } else {
-        $('#dog').attr("src", results["url"]);
+        $('#joke').attr("src", results["url"]);
       }
     },
     error: function(xhr,status,error) {
